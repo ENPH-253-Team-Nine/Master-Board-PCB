@@ -1,0 +1,50 @@
+Added Component: Designator=P13(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P14(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P15(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P16(HDR1X6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P17(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P18(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Right IR Strength Pin=P13-1
+Added Pin To Net: NetName=Left IR Strength Pin=P13-2
+Added Pin To Net: NetName=Encoder1B Pin=P14-1
+Added Pin To Net: NetName=Encoder1A Pin=P14-2
+Added Pin To Net: NetName=Encoder2B Pin=P15-1
+Added Pin To Net: NetName=Encoder2A Pin=P15-2
+Added Pin To Net: NetName=HMI4 Pin=P16-1
+Added Pin To Net: NetName=HMI3 Pin=P16-2
+Added Pin To Net: NetName=HMI2 Pin=P16-3
+Added Pin To Net: NetName=HMI1 Pin=P16-4
+Added Pin To Net: NetName=Display_SDA Pin=P16-5
+Added Pin To Net: NetName=Display_SCK Pin=P16-6
+Added Pin To Net: NetName=Hall Effect Pin=P17-1
+Added Pin To Net: NetName=Limit Switch Pin=P17-2
+Added Pin To Net: NetName=Claw Reflect Pin=P17-3
+Added Pin To Net: NetName=Right Motor Opto Pin=P18-1
+Added Pin To Net: NetName=Left Motor Opto Pin=P18-2
+Added Pin To Net: NetName=Elbow Servo Opto Pin=P18-3
+Added Pin To Net: NetName=Claw Servo Opto Pin=P18-4
+Added Member To Class: ClassName=Sheet1 Member=Component P13 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component P14 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component P15 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component P16 Header 6
+Added Member To Class: ClassName=Sheet1 Member=Component P17 Header 3
+Added Member To Class: ClassName=Sheet1 Member=Component P18 Header 4
+Added Room: Name=Sheet1
