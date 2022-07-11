@@ -1,0 +1,100 @@
+Added Component: Designator=P19(HDR1X20)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P20(HDR1X6)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P21(HDR1X12)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P22(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P23(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=P7-1
+Added Pin To Net: NetName=3V3 Pin=P19-1
+Added Pin To Net: NetName=GND Pin=P19-2
+Added Pin To Net: NetName=Serial1_TX Pin=P19-6
+Added Pin To Net: NetName=Serial1_RX Pin=P19-7
+Added Pin To Net: NetName=HMI4 Pin=P19-10
+Added Pin To Net: NetName=HMI3 Pin=P19-11
+Added Pin To Net: NetName=HMI2 Pin=P19-12
+Added Pin To Net: NetName=HMI1 Pin=P19-13
+Added Pin To Net: NetName=Claw Servo Opto Pin=P19-14
+Added Pin To Net: NetName=Elbow Servo Opto Pin=P19-15
+Added Pin To Net: NetName=Limit Switch Pin=P19-19
+Added Pin To Net: NetName=GND Pin=P20-1
+Added Pin To Net: NetName=GND Pin=P20-2
+Added Pin To Net: NetName=3V3 Pin=P20-3
+Added Pin To Net: NetName=Display_SDA Pin=P20-5
+Added Pin To Net: NetName=Display_SCK Pin=P20-6
+Added Pin To Net: NetName=Hall Effect Pin=P21-1
+Added Pin To Net: NetName=Encoder1B Pin=P21-2
+Added Pin To Net: NetName=Claw Reflect Pin=P21-3
+Added Pin To Net: NetName=Encoder2B Pin=P21-4
+Added Pin To Net: NetName=Encoder1A Pin=P21-5
+Added Pin To Net: NetName=Encoder2A Pin=P21-6
+Added Pin To Net: NetName=Left Motor Opto Pin=P21-7
+Added Pin To Net: NetName=Right Motor Opto Pin=P21-8
+Added Pin To Net: NetName=3V3 Pin=P21-12
+Added Pin To Net: NetName=GND Pin=P22-1
+Added Pin To Net: NetName=8V Pin=P22-2
+Added Pin To Net: NetName=5V Pin=P22-3
+Added Pin To Net: NetName=3V3 Pin=P22-4
+Added Pin To Net: NetName=GND Pin=P23-1
+Added Pin To Net: NetName=8V Pin=P23-2
+Added Pin To Net: NetName=5V Pin=P23-3
+Added Pin To Net: NetName=3V3 Pin=P23-4
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=P19-20
+Added Net: Name=NetP6_1
+Added Pin To Net: NetName=NetP6_3 Pin=P6-3
+Added Pin To Net: NetName=NetP6_3 Pin=P19-18
+Added Net: Name=NetP6_3
+Added Pin To Net: NetName=NetP6_4 Pin=P6-4
+Added Pin To Net: NetName=NetP6_4 Pin=P19-17
+Added Net: Name=NetP6_4
+Added Pin To Net: NetName=NetP6_5 Pin=P6-5
+Added Pin To Net: NetName=NetP6_5 Pin=P19-16
+Added Net: Name=NetP6_5
+Added Pin To Net: NetName=NetP6_12 Pin=P6-12
+Added Pin To Net: NetName=NetP6_12 Pin=P19-9
+Added Net: Name=NetP6_12
+Added Pin To Net: NetName=NetP6_13 Pin=P6-13
+Added Pin To Net: NetName=NetP6_13 Pin=P19-8
+Added Net: Name=NetP6_13
+Added Pin To Net: NetName=NetP6_16 Pin=P6-16
+Added Pin To Net: NetName=NetP6_16 Pin=P19-5
+Added Net: Name=NetP6_16
+Added Pin To Net: NetName=NetP6_17 Pin=P6-17
+Added Pin To Net: NetName=NetP6_17 Pin=P19-4
+Added Net: Name=NetP6_17
+Added Pin To Net: NetName=NetP6_18 Pin=P6-18
+Added Pin To Net: NetName=NetP6_18 Pin=P19-3
+Added Net: Name=NetP6_18
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Pin To Net: NetName=NetP7_2 Pin=P21-11
+Added Net: Name=NetP7_2
+Added Pin To Net: NetName=NetP7_3 Pin=P7-3
+Added Pin To Net: NetName=NetP7_3 Pin=P21-10
+Added Net: Name=NetP7_3
+Added Pin To Net: NetName=NetP7_4 Pin=P7-4
+Added Pin To Net: NetName=NetP7_4 Pin=P21-9
+Added Net: Name=NetP7_4
+Added Pin To Net: NetName=NetP7_17 Pin=P7-17
+Added Pin To Net: NetName=NetP7_17 Pin=P20-4
+Added Net: Name=NetP7_17
+Change Class Name : Old Net Name=Sheet1 New Net Name=master
+Added Member To Class: ClassName=master Member=Component P19 Header 20
+Added Member To Class: ClassName=master Member=Component P20 Header 6
+Added Member To Class: ClassName=master Member=Component P21 Header 12
+Added Member To Class: ClassName=master Member=Component P22 Header 4
+Added Member To Class: ClassName=master Member=Component P23 Header 4
+Added Room: Name=master
